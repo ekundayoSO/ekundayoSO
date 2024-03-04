@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekundayoso&label=Profile%20views&color=0e75b6&style=flat" alt="ekundayoso" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **JavaScript, PHP, UI/UX, React, Drupal**
 
 - 👨‍💻 All of my projects are available at [github.com/ekundayoSO](github.com/ekundayoSO)
 
