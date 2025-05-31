@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sulaimon Ekundayo</h1>
-<h3 align="center">A passionate software tester from Finland</h3>
+<h3 align="center">A passionate Full Stack Developer and Software QA Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekundayoso&label=Profile%20views&color=0e75b6&style=flat" alt="ekundayoso" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, PHP, UI/UX, React, Drupal**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [github.com/ekundayoSO](github.com/ekundayoSO)
 
