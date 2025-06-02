@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sulaimon.ekundayo1@gmail.com**
 
-- 🛠️ My potfolio **https:sulaimonekundayo.com**
+- 🛠️ My potfolio [https://sulaimonekundayo.com](portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
