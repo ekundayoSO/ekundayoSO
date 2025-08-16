@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekundayoso&label=Profile%20views&color=0e75b6&style=flat" alt="ekundayoso" /> </p>
 
-- 🌱 I’m currently learning **Cloud Engineering**
-
 - 👨‍💻 All of my projects are available at [github.com/ekundayoSO](github.com/ekundayoSO)
 
 - 📫 How to reach me **sulaimon.ekundayo1@gmail.com**
